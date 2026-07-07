@@ -18,8 +18,7 @@ Machine learning pipeline to predict flavonoid compound bioactivity against **BA
 
 ### Option 1 — Google Colab (recommended, no setup)
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)]
-https://colab.research.google.com/github/praveenpharmaco-gif/betasecretase-flavanoid-bioactivity/blob/main/flavanoids_bace_1.ipynb
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/praveenpharmaco-gif/betasecretase-flavanoid-bioactivity/blob/main/flavanoids_bace_1.ipynb)
 
 ### Option 2 — Run locally
 
