@@ -18,8 +18,8 @@ Machine learning pipeline to predict flavonoid compound bioactivity against **BA
 
 ### Option 1 — Google Colab (recommended, no setup)
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/praveenpharmaco-gif/betasecretase-flavonoid-bioactivity/blob/main/flavanoids_bace_1.ipynb)
-
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)]
+https://colab.research.google.com/github/praveenpharmaco-gif/betasecretase-flavanoid-bioactivity/blob/main/flavanoids_bace_1.ipynb
 
 ### Option 2 — Run locally
 
@@ -33,7 +33,7 @@ jupyter notebook
 ## Data files required
 
 - `bsbioactivity_prediction_data1.csv` — included in this repo
-- `external_flavonoids_bioactivity_prediction_data.csv` — **too large for GitHub (475 MB)**. Download it from Google Drive here: [external_flavonoids_bioactivity_prediction_data.csv](https://drive.google.com/file/d/1CagFn3YZ9P7HrSmKtNNoswUeorEaohaA/view?usp=sharing ), then place it in the same folder as the notebook before running the external-screening section.
+- `external_flavonoids_bioactivity_prediction_data.csv` — **too large for GitHub (475 MB)**. Download it from Google Drive here: [external_flavonoids_bioactivity_prediction_data.csv](https://drive.google.com/file/d/1CagFn3YZ9P7HrSmKtNNoswUeorEaohaA/view?usp=sharing), then place it in the same folder as the notebook before running the external-screening section.
 
 ## Repository structure
 
